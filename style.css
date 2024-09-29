@@ -14,3 +14,22 @@ tlačítko Facebook:				 #3b5998
 tlačítko Facebook aktivní: #2b406e
 */
 
+
+body{
+    background-color: #b2bec3;
+    font-family: "Nunito", sans-serif;
+    font-size: 18px;
+}
+
+h1{
+    color: #d63031;
+    font-family: "Nunito", sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.vizitka
+{background-color: white;
+
+}
+
