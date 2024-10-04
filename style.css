@@ -26,56 +26,61 @@ h1{
     font-family: "Nunito", sans-serif;
     font-size: 36px;
     font-weight: bold;
+    margin: 0;
 
 }
 
 .vizitka{
     background-color: white;
-    width: 610px;
+    width: 550px;
     padding: 30px;
     margin: auto;
     margin-top: 150px;
     border-radius: 10px;
     box-shadow: 5px 5px 10px gray;
+    position: relative;
 }
 
-img{
+.foto{
     width: 150px;
     border: 3px solid white;
     border-radius: 50%;
+    position: absolute;
+    right: -75px;
+    top: -75px;
+
 }
 
 .facebook{
     background-color: #3b5998;
-    text-align: center;
-    padding: 10px;
-    border-radius: 5px;
+   
 }
 
 .twitter{
     background-color:#1da1f2;
+  
+}
+
+.tlacitko{
+    color: white;
+    font-weight: bold;
     text-align:center;
     margin-bottom: 5px;
     padding: 10px;
     border-radius: 5px;
-    
-}
-
-a{
-    color: white;
-    font-weight: bold;
-}
-
-.twitter a{
-    text-decoration: none;
+    display: block;
     text-transform: uppercase;
-}
-
-.facebook a{
     text-decoration: none;
-    text-transform: uppercase;
 }
 
-.twitter a:hover{
-    background-color: #0b7bc1;
+.twitter:hover{
+    background: #0b7bc1;
 }
+
+.facebook:hover{
+    background:#2b406e;
+}
+
+
+
+
