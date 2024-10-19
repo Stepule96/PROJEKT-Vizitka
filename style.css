@@ -27,6 +27,7 @@ h1{
     font-size: 36px;
     font-weight: bold;
     margin: 0;
+    padding-bottom: 30px;
 
 }
 
@@ -58,8 +59,11 @@ h1{
 
 .twitter{
     background-color:#1da1f2;
+    padding-top: 30px;
   
 }
+
+
 
 .tlacitko{
     color: white;
@@ -81,6 +85,14 @@ h1{
     background:#2b406e;
 }
 
+.prvni{
+    margin-top: 0;
+}
+
+.druhy{
+    margin-bottom: 0;
+    padding-bottom: 30px;
+}
 
 
 
